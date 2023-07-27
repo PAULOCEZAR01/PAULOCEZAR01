@@ -11,7 +11,7 @@ Sou Paulo Cezar, um estudante de programação do Serratec. Estou focado em apri
 
  <div align="center">  
    <a href="https://github.com/PAULOCEZAR01"> 
-      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PAULOCEZAR01&show_icons=true&count_private=true&hide_border=true&title_color=1b718a&icon_color=1b718a&text_color=4F4F4F&bg_color=0d1117" alt="Paulo github stats" /> 
+      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PAULOCEZAR01&show_icons=true&count_private=true&hide_border=true&title_color=1b718a&icon_color=1b718a&text_color=4F4F4F&bg_color=4F4F4F" alt="Paulo github stats" /> 
       <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULOCEZAR01&layout=compact&hide_border=true&title_color=1b718a&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 
