@@ -31,7 +31,7 @@ Sou Paulo Cezar, um estudante de programação do Serratec. Estou focado em apri
 ㅤ
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PAULOCEZAR01&bg_color=000000&color=1b718a&line=1b718a&point=4F4F4F&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center"> 
  <a href="https://www.instagram.com/paulo.cezar.vicente/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
