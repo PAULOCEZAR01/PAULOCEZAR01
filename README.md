@@ -59,9 +59,14 @@ From backend development using Java to frontend development using ReactJS, I'm p
  
 <br><p align="centre"><b>Visitas</b></p>      
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PAULOCEZAR01}/count.svg" /></p
+
+
+  <div>
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
+</div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
 
 </div>
