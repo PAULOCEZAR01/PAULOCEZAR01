@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Paulo+Cezar!;HELLO,+My+name+is+Paulo+Cezar!;Tenho+19+anos!;I'm+19+years+old!;I'm+from+Brazil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-I ❤️ solve challenges using technology.
+I solve challenges using technology.
 
 From backend development using Java to frontend development using ReactJS, I'm passionate about discovering new technologies and using them to create high-quality solutions. Today, I'm an entry-level full stack developer focused on web development.</p>&nbsp;
 
